@@ -1,4 +1,4 @@
-RAML&trade; Version 0.8: RESTful API Modeling Language
+RAML&trade; Version 0.8: RESTful API Modeling Language 
 ===================================
 
 
